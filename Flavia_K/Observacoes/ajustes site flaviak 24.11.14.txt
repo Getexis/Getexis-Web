@@ -1,0 +1,67 @@
+Site Flávia K - ajustes
+
+
+TELA INICIAL
+- falta desenvolver essa tela.
+
+
+MENU
+- diminuir um pouco a logo. [ antes 100px > agora 80px ] - DONE
+- a barra preta do menu se prolonga até o final da tela no canto direito. - DONE.
+- os itens do menu são separados por um traço.
+- a tipografia do menu não está conforme layout (não sei se é a mesma fonte, mas concerteza o espacejamento e tamanho estão diferentes do psd).
+- o espaço entre os itens do menu está diferente, tem de ser igual.
+- o 1º item do menu (perfil), é mais colado à borda esquerda da tarja perta do menu.
+- a logo e o menu ficam mais próximos da borda inferior da tarja branca (que fica acima da foto), e gera um respiro maior no topo da tela. [antes 149 > 139]
+
+
+RODAPÉ
+- o radapé contém a logo do estúdio e ícones de redes sociais.
+- o box do rodapé tem altura maior.
+
+
+
+HOME
+- a seta das laterais das fotos não estão conforme o layout.
+
+
+
+PERFIL
+- a tipografia da palavra "perfil" não está correta, ela deve ser mais fina.
+- a tarja preta que contém a palavra "perfil" é alinhada ao canto direito da logo Flavia K.
+-  a tipografia do texto não está como no layout, espacejamento das letras, entrelinha e tamanho são maiores.
+- no texto, o Flávia K deve ser na linha abaixo do texto da citação e alinhada à direita.
+- o rodapé está diferente do layout e do que está na home.
+
+
+ENSAIOS
+- a tipografia da palavra "ensaios" não está correta, ela deve ser mais fina.
+- a tarja preta que contém a palavra "ensaios" é alinhada ao canto direito da logo Flavia K.
+- fazer a categorização das fotos e dispor as imagens e elementos conforme layout
+- fazer mouse over conforme layout (1ª foto, com ícone de lupa)
+
+
+LIGHTBOX
+- falta desenvolver.
+
+
+PROJETOS
+- falta desenvolver a página e adicionar item ao menu.
+
+
+PUBLICAÇÕES
+- falta desenvolvera página.
+- quando clicar em uma publicação abre um lightbox igual ao da página de ensaios. Esse lightbox vai ter setas laterais que permite o usuário ver as imagens daquela publicação. >>> Clica em uma publicação e abre o lightbox com as imagens referentes a publicação clicada.
+
+
+CONTATO
+- todo conteúdo ainda não foi desenvolvido
+- o rodapé está diferente do layout e do que está na home.
+
+
+
+
+
+
+obs: Todos os ajustes foram vistas em comparação com o layout em psd enviado.
+Vou enviar as telas em jpg, p q possa ser aberto no próprio navegador, a fim de ver melhor as divergências.
